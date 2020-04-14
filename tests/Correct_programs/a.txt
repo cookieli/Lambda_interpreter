@@ -1,0 +1,1 @@
+(((fun (id : ∀ a . (a -> a)) -> (id [num])) (Λ a -> (fun (x : a) -> x))) h)

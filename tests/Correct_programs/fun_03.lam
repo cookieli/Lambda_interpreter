@@ -1,0 +1,1 @@
+(fun (x: num) -> (fun (y:num)-> (x + y) * 2)) 20 30

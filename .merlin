@@ -1,0 +1,3 @@
+S src
+PKG core stdio
+B _build/src
